@@ -1,2 +1,4 @@
+1.1.0 2024-03-12
+  - Fix DREAM scans to take lower FOVs
 1.0.0 2024-03-09
   - Initial version
