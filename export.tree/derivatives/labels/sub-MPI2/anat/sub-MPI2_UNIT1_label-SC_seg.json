@@ -1,0 +1,20 @@
+{
+    "SpatialReference": "orig",
+    "GeneratedBy": [
+        {
+            "Name": "sct_deepseg -task seg_sc_contrast_agnostic ran on the 'sub-MPI2_UNIT1' image",
+            "Author": "Julien Cohen-Adad",
+            "Date": "2024-04-23 14:56:08"
+        }
+    ]
+}
+{
+    "SpatialReference": "orig",
+    "GeneratedBy": [
+        {
+            "Name": "Manual",
+            "Author": "Julien Cohen-Adad",
+            "Date": "2024-04-23 15:56:08"
+        }
+    ]
+}
