@@ -1,6 +1,6 @@
 2.3.0 2024-04-23
-  - - Added derivatives with segmentation labels (https://github.com/spinal-cord-7t/coil-qc-code/issues/47)
-  - - Added derivatives with disc labels (https://github.com/spinal-cord-7t/coil-qc-code/issues/27)
+  - Added derivatives with segmentation labels (https://github.com/spinal-cord-7t/coil-qc-code/issues/47)
+  - Added derivatives with disc labels (https://github.com/spinal-cord-7t/coil-qc-code/issues/27)
 2.2.0 2024-04-18
   - Move phantom scans to ds005090
 2.1.0 2024-04-16
