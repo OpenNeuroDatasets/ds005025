@@ -1,3 +1,5 @@
+2.3.2 2024-04-24
+  - Added TB1TFL manual segmentation (https://github.com/spinal-cord-7t/coil-qc-code/issues/52)
 2.3.1 2024-04-23
   - Added second batch of derivatives with disc labels (https://github.com/spinal-cord-7t/coil-qc-code/issues/27)
 2.3.0 2024-04-23
