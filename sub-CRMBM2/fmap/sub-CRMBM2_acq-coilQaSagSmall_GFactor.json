@@ -1,7 +1,7 @@
 {
 	"Modality": "MR",
 	"MagneticFieldStrength": 7,
-	"ImagingFrequency": 297.19,
+	"ImagingFrequency": 297.189633,
 	"Manufacturer": "Siemens",
 	"ManufacturersModelName": "Terra",
 	"InstitutionName": "CEMEREM 7T",
@@ -70,7 +70,7 @@
 		69.1172,
 		76.7969,
 		84.4766,
-		92.1563	],
+		92.1562	],
 	"ImageOrientationPatientDICOM": [
 		0,
 		1,
@@ -80,6 +80,7 @@
 		-1	],
 	"ImageOrientationText": "Sag",
 	"InPlanePhaseEncodingDirectionDICOM": "COL",
+	"BidsGuess": ["discard","_acq-fl2_run-37_localizer"],
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20220720"
+	"ConversionSoftwareVersion": "v1.0.20240202"
 }
