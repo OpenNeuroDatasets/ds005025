@@ -1,3 +1,5 @@
+2.4.0 2024-05-04
+  - Add MP2RAGE INV1/INV2 scans for sub-MPI2
 2.3.2 2024-04-24
   - Added TB1TFL manual segmentation (https://github.com/spinal-cord-7t/coil-qc-code/issues/52)
 2.3.1 2024-04-23
