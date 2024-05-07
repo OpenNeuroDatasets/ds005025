@@ -1,3 +1,5 @@
+2.4.1 2024-05-07
+  - Correct CHANGES file for v2.4.0
 2.4.0 2024-05-04
   - Add MP2RAGE INV1/INV2 scans for sub-MPI2
   - Add manual labels for TB1TFL scans for site MSSM (https://github.com/spinal-cord-7t/coil-qc-code/issues/43)
