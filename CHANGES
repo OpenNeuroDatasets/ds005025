@@ -1,3 +1,5 @@
+2.4.2 2024-10-31
+  - Added segmentation on SNR map for sub-MNI1 and  sub-MGH3 (see issues #129 #130)
 2.4.1 2024-05-07
   - Correct CHANGES file for v2.4.0
 2.4.0 2024-05-04
