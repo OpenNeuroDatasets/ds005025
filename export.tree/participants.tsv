@@ -1,0 +1,22 @@
+participant_id	species	age	sex	pathology	institution	field
+sub-MGH1	homo sapiens	n/a	n/a	HC	MGH	7T
+sub-MGH2	homo sapiens	n/a	n/a	HC	MGH	7T
+sub-MGH3	homo sapiens	n/a	n/a	HC	MGH	7T
+sub-MNI1	homo sapiens	n/a	n/a	HC	MNI	7T
+sub-MNI2	homo sapiens	n/a	n/a	HC	MNI	7T
+sub-MNI3	homo sapiens	n/a	n/a	HC	MNI	7T
+sub-MSSM1	homo sapiens	n/a	n/a	HC	MSSM	7T
+sub-MSSM2	homo sapiens	n/a	n/a	HC	MSSM	7T
+sub-MSSM3	homo sapiens	n/a	n/a	HC	MSSM	7T
+sub-NTNU1	homo sapiens	n/a	n/a	HC	NTNU	7T
+sub-NTNU2	homo sapiens	n/a	n/a	HC	NTNU	7T
+sub-NTNU3	homo sapiens	n/a	n/a	HC	NTNU	7T
+sub-UCL1	homo sapiens	n/a	n/a	HC	UCL	7T
+sub-UCL2	homo sapiens	n/a	n/a	HC	UCL	7T
+sub-UCL3	homo sapiens	n/a	n/a	HC	UCL	7T
+sub-CRMBM1	homo sapiens	n/a	n/a	HC	CRMBM	7T
+sub-CRMBM2	homo sapiens	n/a	n/a	HC	CRMBM	7T
+sub-CRMBM3	homo sapiens	n/a	n/a	HC	CRMBM	7T
+sub-MPI1	homo sapiens	n/a	n/a	HC	MPI	7T
+sub-MPI2	homo sapiens	n/a	n/a	HC	MPI	7T
+sub-MPI3	homo sapiens	n/a	n/a	HC	MPI	7T

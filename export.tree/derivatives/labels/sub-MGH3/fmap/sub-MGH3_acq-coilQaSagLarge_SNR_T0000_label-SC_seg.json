@@ -1,0 +1,15 @@
+{
+    "GeneratedBy": [
+        {
+            "Name": "spinalcordtoolbox: sct_deepseg -i sub-MGH3_acq-coilQaSagLarge_SNR_T0000.nii.gz -task seg_sc_contrast_agnostic -o sub-MGH3_acq-coilQaSagLarge_SNR_T0000_seg-julien.nii.gz",
+            "Version": "git-master-fd89b9e240720c19c8f1d368a1329b6e123d4c21",
+            "CodeURL": "https://github.com/spinalcordtoolbox/spinalcordtoolbox/blob/fd89b9e240720c19c8f1d368a1329b6e123d4c21/spinalcordtoolbox/scripts/sct_deepseg.py",
+            "ModelURL": "https://github.com/sct-pipeline/contrast-agnostic-softseg-spinalcord/releases/download/v2.4/model_soft_bin_20240425-170840.zip"
+        },
+        {
+            "Name": "Manual",
+            "Author": "Julien Cohen-Adad",
+            "Date": "2024-10-30 23:19:52"
+        }
+    ]
+}
